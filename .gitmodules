@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sGBJ"]
+	path = sGBJ
+	url = https://github.com/lauravillain/sgbj
+	shallow = true
+	registered = true
